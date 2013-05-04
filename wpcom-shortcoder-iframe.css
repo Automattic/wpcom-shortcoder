@@ -1,0 +1,44 @@
+#wpcom-shortcoder-inputs {
+    overflow: hidden;
+    margin: 10px 0 20px;
+}
+
+#wpcom-shortcoder-inputs select {
+    float: left;
+}
+
+#wpcom-shortcoder-inputs input {
+    float: right;
+}
+
+#wpcom-shortcoder-shortcodes li {
+    list-style: none;
+    margin: 15px 0 0 25px;
+}
+
+#wpcom-shortcoder-shortcodes .wpcom-shortcoder-shortcode-options {
+    display: none;
+}
+
+#wpcom-shortcoder-shortcodes label {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#wpcom-shortcoder-shortcodes p {
+    margin: 2px 0 0 15px;
+}
+
+.wpcom-shortcoder-shortcode-options-list li {
+    padding-bottom: 6px;
+    border-bottom: 1px solid #ddd;
+}
+
+.wpcom-shortcoder-shortcode-options-list li span {
+    color: #888;
+}
+
+#wpcom-shortcoder-sidebar .shortcode-option-required {
+    color: red;
+}
+
